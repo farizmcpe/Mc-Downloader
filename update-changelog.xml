@@ -1,0 +1,12 @@
+<AppUpdater>
+  <update>
+    <latestVersion>1.4</latestVersion>
+    <latestVersionCode>5</latestVersionCode>
+    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+    <releaseNotes>
+- in-app download support
+- added download dialog
+- Bug fixes
+    </releaseNotes>
+  </update>
+</AppUpdater>
