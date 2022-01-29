@@ -1,0 +1,12 @@
+<AppUpdater>
+  <update>
+    <latestVersion>1.4</latestVersion>
+    <latestVersionCode>5</latestVersionCode>
+    <url>https://download2388.mediafire.com/cmbo2hitoztg/n6rv10ih0gb2t6b/gen_signed.apk</url>
+    <releaseNotes>
+- in-app download support
+- added download dialog
+- Bug fixes
+    </releaseNotes>
+  </update>
+</AppUpdater>
