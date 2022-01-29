@@ -2,7 +2,7 @@
   <update>
     <latestVersion>1.4</latestVersion>
     <latestVersionCode>5</latestVersionCode>
-    <url>https://github.com/farizmcpe/Mc-Downloader</url>
+    <url>https://github.com/farizmcpe/McDownloader</url>
     <releaseNotes>
 - in-app download support
 - added download dialog
