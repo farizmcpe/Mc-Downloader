@@ -1,0 +1,12 @@
+<Mc-Downloader>
+  <update>
+    <latestVersion>1.3</latestVersion>
+    <latestVersionCode></latestVersionCode>
+    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+    <releaseNotes>
+- in-app download support
+- added download dialog
+- Bug fixes
+    </releaseNotes>
+  </update>
+</Mc-Downloader>
