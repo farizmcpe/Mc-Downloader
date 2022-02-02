@@ -1,12 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.3</latestVersion>
-    <latestVersionCode>4</latestVersionCode>
+    <latestVersion>1.6</latestVersion>
+    <latestVersionCode>7</latestVersionCode>
     <url>https://github.com/farizmcpe/Mc-Downloader</url>
     <releaseNotes>
-- in-app download support
-- added download progress dialog
-- Bug fixes
+- Gajsgg
     </releaseNotes>
   </update>
 </AppUpdater>
