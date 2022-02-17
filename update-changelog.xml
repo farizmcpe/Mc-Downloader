@@ -1,10 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.4</latestVersion>
-    <latestVersionCode>5</latestVersionCode>
-    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v1.2/Mc.Downloader.1.2.apk</url>
+    <latestVersion>1.5</latestVersion>
+    <latestVersionCode>6</latestVersionCode>
+    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v1.5/Mc.Downloader.1.5.apk</url>
     <releaseNotes>
-- Added Auto Update
+- Changed Check Update Because of some issues(it will be back soon)
+-Added temporary checkupdate
+-Minecraft 1.18.12 Download
+-New Change theme option
     </releaseNotes>
   </update>
 </AppUpdater>
