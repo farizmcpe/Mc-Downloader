@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.8</latestVersion>
-    <latestVersionCode>9</latestVersionCode>
+    <latestVersion>1.6</latestVersion>
+    <latestVersionCode>7</latestVersionCode>
     <url>https://YouTube.com</url>
     <releaseNotes>
 - Testing new feature
