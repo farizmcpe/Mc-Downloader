@@ -1,10 +1,21 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.6</latestVersion>
-    <latestVersionCode>7</latestVersionCode>
-    <url>https://YouTube.com</url>
+    <latestVersion>1.7</latestVersion>
+    <latestVersionCode>8</latestVersionCode>
+    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v1.7/Mc.Downloader.1.7.apk</url>
     <releaseNotes>
-- Testing new feature
+ -Added Minecraft 1.18.32.02 Download Support
+ -Added Auto Update Checker
+ -Added new settings
+ -Added Minecraft 1.18.32.02 Download Support
+ -Added Auto Update Checker
+ -Added new settings
+
+Bugs found-
+
+•When the dark theme is enabled it won't change  settings theme. Main activity will be still changed.
+
+I will try to fix this bug
     </releaseNotes>
   </update>
 </AppUpdater>
