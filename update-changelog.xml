@@ -1,13 +1,14 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.8</latestVersion>
-    <latestVersionCode>9</latestVersionCode>
-    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v1.8/Mc.Downloader.1.8.Modded.apk</url>
+    <latestVersion>1.9</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
+    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v1.9/Mc-Downloader-1.9.apk</url>
     <releaseNotes>
 Changelogs-
-This is actually a modified version of 1.7 because I don't have my laptop right now.
+This is actually a modified version of 1.8 because I don't have my laptop right now.
 
-•Added 1.19.20 download support.
+•Added 1.19.21 download support.
+•Optimized Version.
 
 Bugs in modded version-
 
@@ -15,7 +16,7 @@ Bugs in modded version-
 
 • You can't install this without uninstalling previous version (1.7) because of signature issue.
 
-•You can't update to next version (1.9) without uninstalling this version because of signature issue.
+•You can't update to next version (2.0) without uninstalling this version because of signature issue.
     </releaseNotes>
   </update>
 </AppUpdater>
