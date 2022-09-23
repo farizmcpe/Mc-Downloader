@@ -2,10 +2,24 @@
   <update>
     <latestVersion>2.0</latestVersion>
     <latestVersionCode>11</latestVersionCode>
-    <url>https://youtube.com</url>
+    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v2.0/Mc.Downloader.2.0.apk</url>
     <releaseNotes>
 Changelogs-
-Please wait
+
+-Added 1.19.30 download support.
+-Fixed the downloading again issue when you click the download progress button. 
+-Fixed bugs. 
+-Changed colorAccent to blue. 
+-Fixed dark mode. 
+
+
+Problems in this version-
+
+-Autoupdate installation won't work if the signature is different in next version(You need to install manually by going to Android/data/com.farizmcpe.mcdownloader/app.apk
+
+-You can't install this without uninstalling previous version (1.7). You can update if you have the version after 1.7.
+
+-You can't update to next version (2.1) without uninstalling this version if the signature is different in the next version.
     </releaseNotes>
   </update>
 </AppUpdater>
