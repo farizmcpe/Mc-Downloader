@@ -1,22 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.9</latestVersion>
-    <latestVersionCode>10</latestVersionCode>
-    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v1.9/Mc-Downloader-1.9.apk</url>
+    <latestVersion>2.1</latestVersion>
+    <latestVersionCode>12</latestVersionCode>
+    <url>https://youtube.com</url>
     <releaseNotes>
 Changelogs-
-This is actually a modified version of 1.8 because I don't have my laptop right now.
-
-•Added 1.19.21 download support.
-•Optimized Version.
-
-Bugs in modded version-
-
-•Autoupdate installation won't work(You need to install manually by going to Android/data/com.farizmcpe.mcdownloader/app.apk
-
-• You can't install this without uninstalling previous version (1.7) because of signature issue.
-
-•You can't update to next version (2.0) without uninstalling this version because of signature issue.
+Testing
     </releaseNotes>
   </update>
 </AppUpdater>
