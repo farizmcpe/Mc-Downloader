@@ -1,11 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.1</latestVersion>
-    <latestVersionCode>12</latestVersionCode>
+    <latestVersion>2.0</latestVersion>
+    <latestVersionCode>11</latestVersionCode>
     <url>https://youtube.com</url>
     <releaseNotes>
 Changelogs-
-Testing
+Please wait
     </releaseNotes>
   </update>
 </AppUpdater>
