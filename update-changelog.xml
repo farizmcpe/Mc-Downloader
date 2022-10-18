@@ -1,12 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.1</latestVersion>
-    <latestVersionCode>12</latestVersionCode>
-    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v2.1/Mc.Downloader.2.1.apk</url>
+    <latestVersion>2.2</latestVersion>
+    <latestVersionCode>13</latestVersionCode>
+    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v2.2/Mc.Downloader_2.2.apk</url>
     <releaseNotes>
 Changelogs-
 
--Fixed laggy download.
+-Added 1.19.31 download support. 
+-Reduced Minecraft size by removing music files. 
 -Improved download speed. 
 
 
@@ -16,7 +17,7 @@ Problems in this version-
 
 -You can't install this without uninstalling previous version (1.7). You can update if you have the version after 1.7.
 
--You can't update to next version (2.2) without uninstalling this version if the signature is different in the next version.
+-You can't update to next version (2.3) without uninstalling this version if the signature is different in the next version.
     </releaseNotes>
   </update>
 </AppUpdater>
