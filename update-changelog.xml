@@ -1,23 +1,19 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.2</latestVersion>
-    <latestVersionCode>13</latestVersionCode>
-    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v2.2/Mc.Downloader_2.2.apk</url>
+    <latestVersion>2.3</latestVersion>
+    <latestVersionCode>14</latestVersionCode>
+    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v2.3/Mc-Downloader-2.3.apk</url>
     <releaseNotes>
 Changelogs-
 
--Added 1.19.31 download support. 
--Reduced Minecraft size by removing music files. 
--Improved download speed. 
+- Added 1.19.40 Minecraft download support
 
+- Improved UI
 
-Problems in this version-
+- Optimized Dark mode
 
--Autoupdate installation won't work if the signature is different in next version(You need to install manually by going to Android/data/com.farizmcpe.mcdownloader/app.apk
+- Reduced Minecraft size(music files removed)
 
--You can't install this without uninstalling previous version (1.7). You can update if you have the version after 1.7.
-
--You can't update to next version (2.3) without uninstalling this version if the signature is different in the next version.
     </releaseNotes>
   </update>
 </AppUpdater>
